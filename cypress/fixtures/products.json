@@ -1,0 +1,10 @@
+{
+    "ProductOne": {
+        "name": "Red Cap",
+        "price": 10
+    },
+    "ProductTwo": {
+        "name": "Beige Shorts",
+        "price": 19
+    }
+}
